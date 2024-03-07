@@ -14,6 +14,5 @@
 ```bash
 ljkansdkjhukahwdas
 ```
-`:smail:`
 😄
 😠
