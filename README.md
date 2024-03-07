@@ -15,3 +15,5 @@
 ljkansdkjhukahwdas
 ```
 `:smail:`
+😄
+😠
