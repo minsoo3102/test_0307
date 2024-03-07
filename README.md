@@ -6,5 +6,4 @@
 ###### 6.knalsjkhndjahldjkwndkljahs
 - 항목1
 - 항목2
-  - 하위항복
-**김민수**
+  - 하위항복 **김민수**
